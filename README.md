@@ -1,11 +1,5 @@
 # Quadratic Equation Solver - JavaFX
 
-[![GitHub stars](https://img.shields.io/github/stars/TarStar12309/Quadratic-equation-solver-JavaFX-UA?style=social)](https://github.com/TarStar12309/Quadratic-equation-solver-JavaFX-UA/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/TarStar12309/Quadratic-equation-solver-JavaFX-UA?style=social)](https://github.com/TarStar12309/Quadratic-equation-solver-JavaFX-UA/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/TarStar12309/Quadratic-equation-solver-JavaFX-UA)](https://github.com/TarStar12309/Quadratic-equation-solver-JavaFX-UA/issues)
-[![GitHub license](https://img.shields.io/github/license/TarStar12309/Quadratic-equation-solver-JavaFX-UA)](https://github.com/TarStar12309/Quadratic-equation-solver-JavaFX-UA/blob/main/LICENSE)
-
-
 This is a simple yet effective JavaFX application designed to solve quadratic equations of the form ax² + bx + c = 0. The application provides a user-friendly interface where you can input the coefficients 'a', 'b', and 'c' and receive the solutions, including real and complex roots.
 
 ## Features
