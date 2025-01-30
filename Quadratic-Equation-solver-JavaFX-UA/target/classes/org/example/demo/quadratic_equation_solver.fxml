@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="236.0" prefWidth="327.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.demo.QuadraticEquationController">
+    <Label layoutX="113.0" layoutY="39.0" text="X² +" />
+    <Label layoutX="200.0" layoutY="39.0" text="X +" />
+    <Label layoutX="283.0" layoutY="40.0" prefHeight="18.0" prefWidth="44.0" text="= 0" />
+
+    <TextField fx:id="aInput" layoutX="60.0" layoutY="35.0" prefWidth="40" />
+    <TextField fx:id="bInput" layoutX="150" layoutY="35" prefWidth="40" />
+    <TextField fx:id="cInput" layoutX="230.0" layoutY="36.0" prefWidth="40" />
+
+    <Label layoutX="41.0" layoutY="94.0" text="Корінь 1:" />
+    <Label fx:id="root1Result" layoutX="100.0" layoutY="90.0" prefWidth="200" style="-fx-border-color: red; -fx-padding: 3;" />
+
+    <Label layoutX="40.0" layoutY="134.0" text="Корінь 2: " />
+    <Label fx:id="root2Result" layoutX="100" layoutY="130" prefWidth="200" style="-fx-border-color: blue; -fx-padding: 3;" />
+
+    <Button layoutX="219.0" layoutY="170.0" onAction="#calculateRoots" prefHeight="46.0" prefWidth="85.0" text="Обчислити" />
+    <Button layoutX="128.0" layoutY="180.0" onAction="#eraseInputs" text="Очистити" />
+    <Button layoutX="60.0" layoutY="180.0" onAction="#quitApplication" text="Вийти" />
+</AnchorPane>
