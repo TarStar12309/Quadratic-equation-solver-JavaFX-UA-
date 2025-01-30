@@ -5,9 +5,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/TarStar12309/Quadratic-equation-solver-JavaFX-UA)](https://github.com/TarStar12309/Quadratic-equation-solver-JavaFX-UA/issues)
 [![GitHub license](https://img.shields.io/github/license/TarStar12309/Quadratic-equation-solver-JavaFX-UA)](https://github.com/TarStar12309/Quadratic-equation-solver-JavaFX-UA/blob/main/LICENSE)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/108222958/276628896-1c20e830-7619-41f3-b422-f033c5470c2b.png" alt="Application Screenshot" width="400">
-</p>
 
 This is a simple yet effective JavaFX application designed to solve quadratic equations of the form ax² + bx + c = 0. The application provides a user-friendly interface where you can input the coefficients 'a', 'b', and 'c' and receive the solutions, including real and complex roots.
 
@@ -50,20 +47,4 @@ This project uses the following library:
   -   The required SDK for this application is **Java Development Kit (JDK)**, and any distributions that include JavaFX will be suitable (e.g. OpenJDK with JavaFX).
   -   No other SDKs are needed.
 
-## Contributing
 
-Contributions are welcome! If you have suggestions or bug fixes, please feel free to:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or fix.
-3.  Commit your changes.
-4.  Push to your branch.
-5.  Create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-*This README was created to provide an overview of the project, its usage, dependencies, and how to contribute. It is designed to be both informative and visually engaging.*
